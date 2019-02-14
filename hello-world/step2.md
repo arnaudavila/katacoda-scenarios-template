@@ -1,7 +1,7 @@
-This is your second step.
+This is your first step.
 
-## Task
+## Task
 
-This is a 2 example of creating a scenario and running a command
+This is an _example_ of creating a scenario and running a **command**
 
-echo 'Hello World 2'{{execute}}
+`echo 'Hello World2'`{{execute}}
