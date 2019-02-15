@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+ANSIBLE FORMATION STEP BY STEP
